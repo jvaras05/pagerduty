@@ -1,4 +1,4 @@
-# Flask Incident Management System
+# Pagerduty flask API
 
 ## Overview
 
